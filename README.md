@@ -1,7 +1,7 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-°° Purpose
+** Purpose
 
 updeting readme file
 
